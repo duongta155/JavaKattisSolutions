@@ -1,0 +1,17 @@
+Sample Input 1:
+THE RAIN IN SPAIN
+
+Sample Output 1: 
+yes
+
+Sample Input 2:
+IN THE RAIN AND THE SNOW
+
+Sample Output 2:
+no
+
+Sample Input 3:
+THE RAIN IN SPAIN IN THE PLAIN
+
+Sample Output 3:
+no
