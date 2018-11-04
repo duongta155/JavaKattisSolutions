@@ -1,0 +1,17 @@
+Sample Input 1:
+Knuth-Morris-Pratt
+
+Sample Output 1:
+KMP
+
+Sample Input 2:
+Mirko-Slavko
+
+Sample Output 2:
+MS
+
+Sample Input 3:
+Pasko-Patak
+
+Sample Output 3:
+PP
