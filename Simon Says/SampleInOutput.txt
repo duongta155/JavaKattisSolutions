@@ -1,0 +1,25 @@
+Sample Input 1:
+1
+Simon says smile.
+
+Sample Output 1:
+ smile.
+
+Sample input 2:
+3
+Simon says raise your right hand.
+Lower your right hand.
+Simon says raise your left hand.
+
+Sample Output 2:
+ raise your right hand.
+ raise your left hand.
+
+Sample Input 3:
+3
+Raise your right hand.
+Lower your right hand.
+Simon says raise your left hand.
+
+Sample Output 3:
+ raise your left hand.
