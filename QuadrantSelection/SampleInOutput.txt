@@ -1,0 +1,13 @@
+Sample Input 1:
+10
+6
+
+Sample Output 1:
+1
+
+Sample Input 2:
+9
+-13
+
+Sample Output 2:
+4
