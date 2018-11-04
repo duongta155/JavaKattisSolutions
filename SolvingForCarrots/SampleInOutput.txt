@@ -1,0 +1,14 @@
+Sample Input 1:
+2 1
+carrots?
+bunnies
+
+Sample Output 1:
+1
+
+Sample Input 2:
+1 5
+sovl problmz
+
+Sample Output 2:
+5
