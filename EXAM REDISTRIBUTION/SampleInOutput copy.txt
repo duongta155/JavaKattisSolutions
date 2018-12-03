@@ -1,0 +1,6 @@
+Sample Input				Sample Output
+4					2 3 4 1
+2 3 3 1
+
+2					impossible
+10 20
