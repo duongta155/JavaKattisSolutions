@@ -1,0 +1,6 @@
+Sample Input		Sample Output
+4
+1 1			1 1 NO
+2 7			2 7 YES
+3 383			3 383 YES
+4 1000			4 1000 NO
