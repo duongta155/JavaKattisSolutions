@@ -1,4 +1,42 @@
-Sample Input		Sample Output
-47			1
-523			2
-10000000000001		6
+- Sample Input 1
+Lost is Close to Lose
+
+"Better Documents Inc. wants to add Typo Checking in to the
+next generation of word processors," he said.
+***
+
+- Sample Output 1
+close: lose
+he: the
+in: inc is
+inc: in
+is: in
+lose: close lost
+lost: lose
+the: he
+
+-Sample Input 2
+The fox said, "When?"
+"Not till 12 o'clock", replied the hen.
+"That clock is stopped, it will never strike.", he said.
+***
+
+-Sample Output 2
+clock: oclock
+he: hen the
+hen: he when
+is: it
+it: is
+oclock: clock
+the: he
+till: will
+when: hen
+will: till
+
+- Sample Input 3
+There are no similar words
+in this input set.
+***
+
+- Sample Output 3
+***
