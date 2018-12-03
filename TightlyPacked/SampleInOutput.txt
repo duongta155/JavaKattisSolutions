@@ -1,0 +1,4 @@
+Sample Input		Sample Output
+47			1
+523			2
+10000000000001		6
