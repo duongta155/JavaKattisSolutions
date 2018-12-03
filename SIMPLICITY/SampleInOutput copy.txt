@@ -1,0 +1,8 @@
+Sample Input		Sample Output
+string			6
+letter			2
+aaaaaa			0
+uncopyrightable		13
+ambidextrously		12
+assesses		1
+assassins		2	
