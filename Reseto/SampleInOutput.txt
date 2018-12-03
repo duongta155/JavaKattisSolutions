@@ -1,0 +1,4 @@
+Sample Input		Sample Output
+7 3			6
+15 12			7
+10 7			9
